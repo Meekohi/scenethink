@@ -1,0 +1,19 @@
+{
+  "name": "scenethink-scrapers",
+  "version": "0.1.0",
+  "dependencies": {
+    "underscore":"latest",
+    "underscore.string":"latest",
+    "request":"latest",
+    "async":"latest",
+    "moment":"latest",
+    "cheerio":"latest",
+    "readdir":"latest",
+    "yargs":"latest",
+    "html-to-text":"latest"
+  },
+  "engines": {
+    "node": "0.11.x",
+    "npm": "1.4.x"
+  }
+}
